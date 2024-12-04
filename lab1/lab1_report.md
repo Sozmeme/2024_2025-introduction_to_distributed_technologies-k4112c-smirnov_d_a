@@ -6,7 +6,7 @@ Group: K4112c \
 Author: Smirnov Daniil Aleksandrovich \
 Lab: Lab1 \
 Date of create: 04.12.2023 \
-Date of finished: ...
+Date of finished: 04.12.2023
 
 ## Ход работы
 
