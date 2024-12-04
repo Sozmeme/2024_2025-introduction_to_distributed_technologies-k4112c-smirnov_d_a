@@ -46,13 +46,12 @@ spec:
     
    ![image](https://github.com/user-attachments/assets/866543d5-c20b-4fc0-bf7a-fede27857eab)
    
-11. Токен хранится в логах контейнера в поде - с помощью команды `minikube kubectl logs vault` нашел токен:
+11. Токен хранится в логах контейнера в поде - с помощью команды `minikube kubectl logs vault` нашел токен и вошел в сервис:
     
   ![image](https://github.com/user-attachments/assets/32ac01bc-4426-49e6-ae6f-fe822d723969)
   
-  и вошел в сервис:
-  
   ![image](https://github.com/user-attachments/assets/7554df84-b8ae-470c-bae0-6023189bbc7b)
+  
   ## Диаграмма организации
   ![image](https://github.com/user-attachments/assets/2744893c-c295-413c-b72c-e7b4b6794fe8)
 
