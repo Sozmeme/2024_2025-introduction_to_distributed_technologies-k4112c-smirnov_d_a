@@ -8,6 +8,9 @@ Lab: Lab1 \
 Date of create: 04.12.2023 \
 Date of finished: 04.12.2023
 
+### Цель работы
+Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".
+
 ## Ход работы
 
 1. Установил [Docker](https://docs.docker.com/engine/install/ubuntu/) и [Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download) на Ubuntu VM по инструкциям.
