@@ -5,8 +5,8 @@ Year: 2024/2025 \
 Group: K4112c \
 Author: Smirnov Daniil Aleksandrovich \
 Lab: Lab1 \
-Date of create: 04.12.2023 \
-Date of finished: 04.12.2023
+Date of create: 04.12.2024 \
+Date of finished: 04.12.2024
 
 ### Цель работы
 Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".
