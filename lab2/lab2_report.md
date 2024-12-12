@@ -47,7 +47,7 @@ spec:
    
 ![image](https://github.com/user-attachments/assets/0f061305-3342-43d7-8597-9f6bc280aff7)
 
-4. проверил создание объектов с помощью `minikube kubectl get deployment` и `minikube kubectl get pods`:
+4. Проверил создание объектов с помощью `minikube kubectl get deployment` и `minikube kubectl get pods`:
    
 ![image](https://github.com/user-attachments/assets/7886a2db-1a83-4205-bee5-160bbfbcd83a)
 ![image](https://github.com/user-attachments/assets/08221bf1-4f07-478f-8f80-9d28745be6fe)
