@@ -6,7 +6,7 @@ Group: K4112c\
 Author: Smirnov Daniil Aleksandrovich\
 Lab: Lab3\
 Date of create: 04.12.2024\
-Date of finished: ...\
+Date of finished: 18.12.2024
 
 ### Цель работы
 Познакомиться с сертификатами и "секретами" в Minikube, правилами безопасного хранения данных в Minikube. 
